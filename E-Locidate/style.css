@@ -132,5 +132,10 @@ footer ul li{
 	}
   }
 
+/*Scale image, di ko alam anong unit yan xD*/
+.imgscale{	
+	height:2em;
+	width:2em;
+}
    
 
